@@ -1,0 +1,11 @@
+digitalia_muni_entity.type_add:
+  title: 'Add digitalia muni custom entity type'
+  route_name: entity.digitalia_muni_entity_type.add_form
+  appears_on:
+    - entity.digitalia_muni_entity_type.collection
+
+digitalia_muni_entity.add_page:
+  title: 'Add digitalia muni custom entity'
+  route_name: entity.digitalia_muni_entity.add_page
+  appears_on:
+    - entity.digitalia_muni_entity.collection

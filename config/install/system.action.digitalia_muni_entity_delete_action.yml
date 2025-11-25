@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - digitalia_muni_entity
+id: digitalia_muni_entity_delete_action
+label: 'Delete digitalia muni custom entities'
+type: digitalia_muni_entity
+plugin: entity:delete_action:digitalia_muni_entity
+configuration: {  }

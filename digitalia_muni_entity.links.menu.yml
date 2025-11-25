@@ -1,0 +1,11 @@
+entity.digitalia_muni_entity_type.collection:
+  title: 'Digitalia muni custom entity types'
+  description: 'Manage and CRUD actions on Digitalia muni custom entity type.'
+  parent: system.admin_structure
+  route_name: entity.digitalia_muni_entity_type.collection
+
+entity.digitalia_muni_entity.collection:
+  title: 'Digitalia muni custom entities'
+  description: 'List of digitalia muni custom entities.'
+  route_name: entity.digitalia_muni_entity.collection
+  parent: system.admin_content
