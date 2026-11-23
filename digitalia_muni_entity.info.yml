@@ -1,5 +1,5 @@
 name: 'Digitalia muni custom entity'
 type: module
-description: '@todo Add description.'
-package: '@todo Add package'
-core_version_requirement: ^10
+description: 'Custom entity for container fields'
+package: 'digitalia'
+core_version_requirement: ^10 || ^11
